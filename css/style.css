@@ -1,0 +1,11 @@
+#cabecalho {
+    background-color: rgb(179, 29, 29);
+}
+
+.link {
+    list-style: none;
+}
+
+.lista {
+    display: inline;
+}
